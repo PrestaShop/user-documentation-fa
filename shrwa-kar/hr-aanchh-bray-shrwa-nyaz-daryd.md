@@ -23,9 +23,9 @@ Skip to end of metadata](http://doc.prestashop.com/pages/viewpage.action?pageId=
     * [تهیه یک طرح](http://doc.prestashop.com/pages/viewpage.action?pageId=53411848#id-%D9%87%D8%B1%D8%A2%D9%86%DA%86%D9%87%D8%A8%D8%B1%D8%A7%DB%8C%D8%B4%D8%B1%D9%88%D8%B9%D9%86%DB%8C%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D8%AA%D9%87%DB%8C%D9%87%DB%8C%DA%A9%D8%B7%D8%B1%D8%AD)
     * [نصب پرستاشاپ](http://doc.prestashop.com/pages/viewpage.action?pageId=53411848#id-%D9%87%D8%B1%D8%A2%D9%86%DA%86%D9%87%D8%A8%D8%B1%D8%A7%DB%8C%D8%B4%D8%B1%D9%88%D8%B9%D9%86%DB%8C%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D9%86%D8%B5%D8%A8%D9%BE%D8%B1%D8%B3%D8%AA%D8%A7%D8%B4%D8%A7%D9%BE)
 
-## هر آنچه برای شروع نیاز دارید <a href="id-hraanchhbrayshrwanyazdaryd-hraanchhbrayshrwanyazdaryd" id="id-hraanchhbrayshrwanyazdaryd-hraanchhbrayshrwanyazdaryd"></a>
+## هر آنچه برای شروع نیاز دارید <a href="#id-hraanchhbrayshrwanyazdaryd-hraanchhbrayshrwanyazdaryd" id="id-hraanchhbrayshrwanyazdaryd-hraanchhbrayshrwanyazdaryd"></a>
 
-### دستورالعمل راه‌اندازی سریع <a href="id-hraanchhbrayshrwanyazdaryd-dstwralamlrah-andazysrya" id="id-hraanchhbrayshrwanyazdaryd-dstwralamlrah-andazysrya"></a>
+### دستورالعمل راه‌اندازی سریع <a href="#id-hraanchhbrayshrwanyazdaryd-dstwralamlrah-andazysrya" id="id-hraanchhbrayshrwanyazdaryd-dstwralamlrah-andazysrya"></a>
 
 اینجا یک لیست از هر آنچه برای شروع نصب پرستاشاپ ۱.۷ نیاز دارید آماده است. اگر به جزئیات مربوط به موارد لیست شده نیاز دارید، دستورالعمل‌هایی با جزئیات کامل در ادامه‌ی این بخش آمده است.
 
@@ -60,11 +60,11 @@ Skip to end of metadata](http://doc.prestashop.com/pages/viewpage.action?pageId=
 
 به محض اینکه سیستم آماده شد، می‌توانید از راهنمای نصب استفاده کنید: [http://doc.prestashop.com/display/PS17/Installing+PrestaShop](http://doc.prestashop.com/display/PS17/Installing+PrestaShop). **(لینک باید تغییر کند.)**
 
-### دستورالعمل راه‌اندازی با جزئیات <a href="id-hraanchhbrayshrwanyazdaryd-dstwralamlrah-andazybajzeyat" id="id-hraanchhbrayshrwanyazdaryd-dstwralamlrah-andazybajzeyat"></a>
+### دستورالعمل راه‌اندازی با جزئیات <a href="#id-hraanchhbrayshrwanyazdaryd-dstwralamlrah-andazybajzeyat" id="id-hraanchhbrayshrwanyazdaryd-dstwralamlrah-andazybajzeyat"></a>
 
 پرستاشاپ یک نرم‌افزار تحت وب است: به این معنی که باید حتماً روی یک سرور وب نصب شود تا اجرا شود، و به یک نام دامنه نیاز دارد که بازدیدکنندگان شما از آن برای دسترسی به فروشگاه شما استفاده خواهند کرد.
 
-#### ثبت یک نام دامنه <a href="id-hraanchhbrayshrwanyazdaryd-thbtyknamdamnh" id="id-hraanchhbrayshrwanyazdaryd-thbtyknamdamnh"></a>
+#### ثبت یک نام دامنه <a href="#id-hraanchhbrayshrwanyazdaryd-thbtyknamdamnh" id="id-hraanchhbrayshrwanyazdaryd-thbtyknamdamnh"></a>
 
 قبل از اینکه چیزی را دانلود یا نصب کنید، شما باید برای فروشگاه اینترنتی پرستاشاپی خود یک خانه فراهم کنید. این کار از دو جز تشکیل شده است: یک نام دامنه و یک سرور وب. یک دامنه هویت آنلاین وب‌سایت شماست، مثلاً example.com یا myonlineshop.net. دامنه چهره‌ی عمومی سرور وب شما و به عبارتی فروشگاه شما است.
 
@@ -80,14 +80,14 @@ Skip to end of metadata](http://doc.prestashop.com/pages/viewpage.action?pageId=
 
 اگر تمایل دارید تا نام دامنه‌ی خود را از یک ثبت‌کننده‌ی مستقل بگیرید، اینجا لیستی از بعضی از ثبت‌کننده‌های قابل اعتماد آماده است:
 
-* Gandi: [http://en.gandi.net/](http://en.gandi.net)
-* Namecheap: [http://www.namecheap.com/](http://www.namecheap.com)
-* GoDaddy: [https://www.godaddy.com/](https://www.godaddy.com)
-* 1&1: [https://www.1and1.com/](https://www.1and1.com)
+* Gandi: [http://en.gandi.net/](http://en.gandi.net/)
+* Namecheap: [http://www.namecheap.com/](http://www.namecheap.com/)
+* GoDaddy: [https://www.godaddy.com/](https://www.godaddy.com/)
+* 1&1: [https://www.1and1.com/](https://www.1and1.com/)
 
 تعداد ثبت‌کننده‌ها خیلی بیشتر از این لیست است. از دوستان خود درباره‌ی آن‌ها بپرسید!
 
-#### پیدا کردن یک هاست <a href="id-hraanchhbrayshrwanyazdaryd-pydakrdnykhast" id="id-hraanchhbrayshrwanyazdaryd-pydakrdnykhast"></a>
+#### پیدا کردن یک هاست <a href="#id-hraanchhbrayshrwanyazdaryd-pydakrdnykhast" id="id-hraanchhbrayshrwanyazdaryd-pydakrdnykhast"></a>
 
 حالا که یک نام دامنه دارید،‌ باید آن را به سمت پرستاشاپ هدایت کنید. این بدان معنی است که فایل‌های پرستاشاپ باید در یک سرور وب قرار بگیرند. شما ممکن است خودتان یک سرور وب داشته باشید، اما احتمال اینکه فروشگاه شما توسط یک خدمات دهنده‌ی هاستینگ اینترنت میزبانی شود بیشتر است (ببینید: [http://en.wikipedia.org/wiki/Internet\_hosting\_service](http://en.wikipedia.org/wiki/Internet\_hosting\_service))، که برای شما در ازای یک مبلغ ماهیانه یا سالیانه یک خانه آنلاین را فراهم می‌کند.
 
@@ -95,7 +95,7 @@ Skip to end of metadata](http://doc.prestashop.com/pages/viewpage.action?pageId=
 
 هنگام انتخاب هاست خود، یک نیاز حیاتی را به خاطر بسپارید: باید از PHP 5.4 (یا جدیدتر)، زبان برنامه‌نویسی پرستاشاپ، MySQL 5 (یا جدیدتر)، سیستم پایگاه‌داده‌ای که پرستاشاپ داده‌هایش را با آن ذخیره می‌کند، پشتیبانی کند. ملزومات بیشتری وجود دارد: بخش «ملزومات فنی» را در زیر ببینید.
 
-#### ملزومات فنی <a href="id-hraanchhbrayshrwanyazdaryd-mlzwmatfny" id="id-hraanchhbrayshrwanyazdaryd-mlzwmatfny"></a>
+#### ملزومات فنی <a href="#id-hraanchhbrayshrwanyazdaryd-mlzwmatfny" id="id-hraanchhbrayshrwanyazdaryd-mlzwmatfny"></a>
 
 پرستاشاپ نرم‌افزاری است که روی یک سرور وب اجرا می‌شود و با استفاده از زبان برنامه‌نویسی PHP نوشته شده است. داده‌هایش را در یک سرور MySQL ذخیره می‌کند.
 
@@ -115,7 +115,7 @@ MySQL یک سیستم مدیریت پایگاه‌داده‌ی متن-باز ا
 
 اطلاعت بیشتر برای ادمین‌های سیستم در راهنمای ادمین‌های سیستم در دسترس است. حتماً آن را مطالعه کنید!
 
-#### ابزارها <a href="id-hraanchhbrayshrwanyazdaryd-abzarha" id="id-hraanchhbrayshrwanyazdaryd-abzarha"></a>
+#### ابزارها <a href="#id-hraanchhbrayshrwanyazdaryd-abzarha" id="id-hraanchhbrayshrwanyazdaryd-abzarha"></a>
 
 شما به دو ابزار نیاز دارید: یک ویرایش‌گر متن، تا فایل‌های متنی را ویرایش کنید. و یک نرم‌افزار اتصال به FTP، تا فایل‌ها را از سیستم خود با سرور و برعکس، منتقل کنید.
 
@@ -124,19 +124,19 @@ MySQL یک سیستم مدیریت پایگاه‌داده‌ی متن-باز ا
 در زیر لیستی از ویرایش‌گرهای متن شناخته‌شده آماده است:
 
 * Windows and OS X:
-  * Sublime Text: [http://www.sublimetext.com/](http://www.sublimetext.com)
-  * Atom: [https://atom.io/](https://atom.io)
+  * Sublime Text: [http://www.sublimetext.com/](http://www.sublimetext.com/)
+  * Atom: [https://atom.io/](https://atom.io/)
 * Unix/Linux:
-  * Vim: [http://www.vim.org/](http://www.vim.org)
+  * Vim: [http://www.vim.org/](http://www.vim.org/)
   * Emacs: [http://www.gnu.org/software/emacs/](http://www.gnu.org/software/emacs/)
 
-به هیچ وجه از واژه پرداز (word processor) مثل Microsoft Word یا [OpenOffice.org](http://openoffice.org)'s Write برای ویرایش فایل‌های متنی استفاده نکنید.
+به هیچ وجه از واژه پرداز (word processor) مثل Microsoft Word یا [OpenOffice.org](http://openoffice.org/)'s Write برای ویرایش فایل‌های متنی استفاده نکنید.
 
 **نرم‌افزار اتصال به FTP**
 
 FTP مخفف «File Transfer Protocol - پروتکل انتقال فایل» است، به معنی یک روش استاندارد که برای انتقال فایل‌ها از یک رایانه به یک هاست وب استفاده می‌شود.
 
-در این راهنما، ما از Filezilla استفاده می‌کنیم، که یک نرم‌افزار عالی و رایگان برای Windows و Mac OS X و Linux است. از اینجا [http://filezilla-project.org/](http://filezilla-project.org) دانلود کنید و فایل نصبی آن را اجرا کنید. توجه: FileZilla Server را دانلود نکنید، تنها FileZilla Client را دانلود کنید!
+در این راهنما، ما از Filezilla استفاده می‌کنیم، که یک نرم‌افزار عالی و رایگان برای Windows و Mac OS X و Linux است. از اینجا [http://filezilla-project.org/](http://filezilla-project.org/) دانلود کنید و فایل نصبی آن را اجرا کنید. توجه: FileZilla Server را دانلود نکنید، تنها FileZilla Client را دانلود کنید!
 
 بعد از اینکه FileZilla نصب شود، باید با پارامترهای اتصال سرور وب خود آن را پیکربندی کنید، که باید توسط هاست برای شما ارسال شود. اگر نشد، از هاست خود این پارامترها را بخواید، یا پوشه اسپم ایمیل خود را چک کنید.
 
@@ -163,31 +163,31 @@ FileZilla را اجرا کنید و ابزار Site Manager آن را اجرا �
 اگر FileZilla را مناسب کار خود نیافتید، در اینجا لیستی از برنامه‌های شناخته‌شده‌ی اتصال به FTP آمده است:
 
 * Windows:
-  * CoreFTP: [http://www.coreftp.com/](http://www.coreftp.com)
-  * WinSCP: [http://winscp.net/](http://winscp.net)
-  * SmartFTP: [http://www.smartftp.com/](http://www.smartftp.com)
+  * CoreFTP: [http://www.coreftp.com/](http://www.coreftp.com/)
+  * WinSCP: [http://winscp.net/](http://winscp.net/)
+  * SmartFTP: [http://www.smartftp.com/](http://www.smartftp.com/)
 * Mac OS X:
-  * Cyberduck: [http://cyberduck.ch/](http://cyberduck.ch)
+  * Cyberduck: [http://cyberduck.ch/](http://cyberduck.ch/)
   * Transmit: [http://www.panic.com/transmit/](http://www.panic.com/transmit/)
   * Fetch: [http://fetchsoftworks.com/fetch/](http://fetchsoftworks.com/fetch/)
 * Unix/Linux:
-  * gFTP: [http://gftp.seul.org/](http://gftp.seul.org)
-  * kasablanca: [http://kasablanca.berlios.de/](http://kasablanca.berlios.de)
+  * gFTP: [http://gftp.seul.org/](http://gftp.seul.org/)
+  * kasablanca: [http://kasablanca.berlios.de/](http://kasablanca.berlios.de/)
   * NcFTP: [http://www.ncftp.com/ncftp/](http://www.ncftp.com/ncftp/)
 
-#### تهیه یک طرح <a href="id-hraanchhbrayshrwanyazdaryd-thyhyktrh" id="id-hraanchhbrayshrwanyazdaryd-thyhyktrh"></a>
+#### تهیه یک طرح <a href="#id-hraanchhbrayshrwanyazdaryd-thyhyktrh" id="id-hraanchhbrayshrwanyazdaryd-thyhyktrh"></a>
 
 شما حالا باید تصمیم بگیرید که پرستاشاپ را کجا می‌خواهید میزبانی کنید. چهار امکان مرتبط با نام دامنه‌تان وجود دارد:
 
-* در ریشه دامنه: [http://www.example.com/](http://www.example.com)
+* در ریشه دامنه: [http://www.example.com/](http://www.example.com/)
 * در یک پوشه: [http://www.example.com/shop/](http://www.example.com/shop/)
-* در یک زیر-دامنه: [http://store.example.com/](http://store.example.com)
+* در یک زیر-دامنه: [http://store.example.com/](http://store.example.com/)
 * در یک پوشه در زیر-دامنه: [http://clothes.example.com/boutique/](http://clothes.example.com/boutique/)
 
 توجه کنید که با توجه به ویژگی چندفروشگاهی، شما می‌توانید هر تعداد فروشگاه که نیاز دارید را با استفاده از نصب یک پرستاشاپ ۱.۷ واحد داشته باشید، و اگر نیاز باشد هر کدام با نام دامنه‌ی اختصاصی. باید هنگام تصمیم‌گیری اینکه چه چیزی کجا قرار بگیرد، این مورد را در نظر داشته باشید.
 
 طرح شما هر چه که باشد، فروشگاه پیش‌فرض همواره در محلی که خود پرستاشاپ قرار گرفته است، قرار می‌گیرد.
 
-#### نصب پرستاشاپ <a href="id-hraanchhbrayshrwanyazdaryd-nsbprstashap" id="id-hraanchhbrayshrwanyazdaryd-nsbprstashap"></a>
+#### نصب پرستاشاپ <a href="#id-hraanchhbrayshrwanyazdaryd-nsbprstashap" id="id-hraanchhbrayshrwanyazdaryd-nsbprstashap"></a>
 
 سرانجام، حالا که تمام ملزومات فراهم شده‌اند، شما می‌توانید از راهنمای نصب استفاده کنید: [http://doc.prestashop.com/display/PS17/Installing+PrestaShop](http://doc.prestashop.com/display/PS17/Installing+PrestaShop). **(لینک باید تغییر کند.)**\

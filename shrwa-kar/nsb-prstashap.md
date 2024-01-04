@@ -89,13 +89,13 @@ The downloaded file is a Zip archive. In order to continue with the process, **y
 If your operating system does not natively support Zip files, you can download and install a dedicated tool, such as:
 
 * Windows:
-  * 7-zip: [http://www.7-zip.org/](http://www.7-zip.org)
+  * 7-zip: [http://www.7-zip.org/](http://www.7-zip.org/)
   * WinZip: [http://www.winzip.com/win/en/index.htm](http://www.winzip.com/win/en/index.htm)
-  * WinRAR: [http://www.rarlab.com/](http://www.rarlab.com)
+  * WinRAR: [http://www.rarlab.com/](http://www.rarlab.com/)
 * Mac OS X:
-  * iZip: [http://www.izip.com/](http://www.izip.com)
+  * iZip: [http://www.izip.com/](http://www.izip.com/)
   * WinZip Mac: [http://www.winzip.com/mac/](http://www.winzip.com/mac/)
-  * Zipeg: [http://www.zipeg.com/](http://www.zipeg.com)
+  * Zipeg: [http://www.zipeg.com/](http://www.zipeg.com/)
 
 Using a Zip tool, extract the content of the archive to a known location on your hard-drive (such as on the Desktop again). **Do not upload the Zip file directly to your web server**.
 
@@ -111,7 +111,7 @@ The "Install\_PrestaShop.html" must not be uploaded on your web server.
 
 You should now have a hosting space at your disposal (if not, read the "What you need to get started" chapter of this guide), and a folder on your hard-drive with the uncompressed PrestaShop archive.
 
-This step makes you upload the PrestaShop files on your hosting space. This is done by connecting your computer to your server using a tool known as a "FTP client", which you should have installed while reading the "What you need to get started" chapter. We will be using the free FileZilla ([http://filezilla-project.org/](http://filezilla-project.org)).
+This step makes you upload the PrestaShop files on your hosting space. This is done by connecting your computer to your server using a tool known as a "FTP client", which you should have installed while reading the "What you need to get started" chapter. We will be using the free FileZilla ([http://filezilla-project.org/](http://filezilla-project.org/)).
 
 Connect to your hosting space using your FTP client, by using the connection details provided by your web host (if not, contact your host). Once connected, it is time to transfer the PrestaShop files from your computer to your server.
 
@@ -122,12 +122,12 @@ In FileZilla (or any other FTP client), browse your local folders until you find
 In the "Remote site" section (on the right), browse to the location where you want PrestaShop to be publicly available (root of the domain, sub-folder, sub-domain...). This can change a lot, depending on both your host and your needs:
 
 * Your host:
-  * Some hosts may require you to place your files in a specific folder, such as `/htdocs`, `/public_html`, `/web`, `/www`, `/`[`yourdomainname.com`](http://yourdomainname.com), etc.
+  * Some hosts may require you to place your files in a specific folder, such as `/htdocs`, `/public_html`, `/web`, `/www`, `/`[`yourdomainname.com`](http://yourdomainname.com/), etc.
   * Other hosts' FTP server will simply log you directly into the proper upload space.
 * Your needs:
-  * If you want your shop to be the main website for your domain name (i.e., [http://www.example.com](http://www.example.com)), upload PrestaShop at the root folder of the upload space (which may depend on the host).
+  * If you want your shop to be the main website for your domain name (i.e., [http://www.example.com](http://www.example.com/)), upload PrestaShop at the root folder of the upload space (which may depend on the host).
   * If you want your shop to be in a sub-folder of your domain name ([http://www.example.com/shop](http://www.example.com/shop)), you must first create a folder through FileZilla (right-click and choose "Create directory"), then upload PrestaShop in that folder.
-  * If you want your shop to be in a sub-domain of your domain name ([http://shop.example.com](http://shop.example.com)), you must first create a sub-domain. This depends on your host: you might be able to do it simply by adding a new folder with your FTP client, or you might have to create the sub-domain through your host's administration panel. Read your host's support documentation first. Once created, browse to the sub-domain's folder, and upload PrestaShop there.
+  * If you want your shop to be in a sub-domain of your domain name ([http://shop.example.com](http://shop.example.com/)), you must first create a sub-domain. This depends on your host: you might be able to do it simply by adding a new folder with your FTP client, or you might have to create the sub-domain through your host's administration panel. Read your host's support documentation first. Once created, browse to the sub-domain's folder, and upload PrestaShop there.
 
 On FileZilla's left side, you should now have the local folder where you keep the PrestaShop files from the Zip archive, and on the right side, the destination location. If you haven't done it yet, uploading is simple: select the three files from the local folder (use Ctrl-A), and either drag & drop them to the remote folder, or right-click on the selection and choose "Upload" in the context menu.
 
@@ -135,7 +135,7 @@ On FileZilla's left side, you should now have the local folder where you keep th
 
 Before you can actually install PrestaShop, you need to make sure your MySQL server has a database ready for PrestaShop's data. If not, you must create one.
 
-Creating a database can be done using any database administration tool. We will be using the free phpMyAdmin tool ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net)), which should come pre-installed on most web hosting.
+Creating a database can be done using any database administration tool. We will be using the free phpMyAdmin tool ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net/)), which should come pre-installed on most web hosting.
 
 Some hosts prefer to have customers use a graphic control panel, such as cPanel, Plesk or a custom-made one. Make sure you read your host's documentation about handling MySQL databases, and create a database for your shop by following their specific explanations.
 
@@ -169,7 +169,7 @@ This page is a quick intro into the installation process. You can choose the lan
 
 ![](http://doc.prestashop.com/download/attachments/51840063/003-installer1.png?version=1\&modificationDate=1479321856000\&api=v2)
 
-You also get a link to the documentation site ([http://doc.prestashop.com/](http://doc.prestashop.com)), and a link to our Support offer. You can learn more about our support service by going to [http://support.prestashop.com/en/](http://support.prestashop.com/en/).
+You also get a link to the documentation site ([http://doc.prestashop.com/](http://doc.prestashop.com/)), and a link to our Support offer. You can learn more about our support service by going to [http://support.prestashop.com/en/](http://support.prestashop.com/en/).
 
 Select the language in which you wish the installer to be, then click the "Next" button. This will also set the default language for your PrestaShop installation – but other languages will also be available for you to enable.
 
@@ -211,8 +211,8 @@ Here is a list of the checks that are performed during this third step:
 | Is PHP 5.4 or later installed?                            | Web server                                                                                                |
 | Can PrestaShop upload files?                              | php.ini file (`file_uploads`)                                                                             |
 | Can PrestaShop create new files and folders?              | File browser / FTP client / command line                                                                  |
-| Is the GD Library installed?                              | php.ini file (`extension=`[`php_gd2.so`](http://php\_gd2.so))                                             |
-| Is MySQL support is on?                                   | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so))                                |
+| Is the GD Library installed?                              | php.ini file (`extension=`[`php_gd2.so`](http://php\_gd2.so/))                                            |
+| Is MySQL support is on?                                   | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so/))                               |
 | Recursive write permission on \~/config/                  | File browser / FTP client / command line                                                                  |
 | Recursive write permission on \~/cache/                   | File browser / FTP client / command line                                                                  |
 | Recursive write permission on \~/log/                     | File browser / FTP client / command line                                                                  |
@@ -227,13 +227,13 @@ Here is a list of the checks that are performed during this third step:
 | Recursive write permission on \~/upload/                  | File browser / FTP client / command line                                                                  |
 | Recursive write permission on \~/download/                | File browser / FTP client / command line                                                                  |
 | Recursive write permission on \~/sitemap.xml              | File browser / FTP client / command line                                                                  |
-| Can PrestaShop open external URLs?                        | [php.in](http://php.in) file (`allow_url_fopen`)                                                          |
+| Can PrestaShop open external URLs?                        | [php.in](http://php.in/) file (`allow_url_fopen`)                                                         |
 | Is PHP's "register global" option off?                    | php.ini file (`register_globals`)                                                                         |
 | Is GZIP compression activated?                            | .htaccess file                                                                                            |
 | Is the Mcrypt extension available?                        | php.ini file (see [http://php.net/manual/en/mcrypt.setup.php](http://php.net/manual/en/mcrypt.setup.php)) |
 | Is PHP's "magic quotes" option deactivated?               | php.ini file (`magic_quotes_gpc`)                                                                         |
 | Is the Dom extension loaded?                              | `--enable-dom` compile time option                                                                        |
-| Is the PDO MySQL extension loaded?                        | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so))                                |
+| Is the PDO MySQL extension loaded?                        | php.ini file (`extension=`[`php_pdo_mysql.so`](http://php\_pdo\_mysql.so/))                               |
 
 While changing the PHP configuration can only be done on a case-by-case basis depending on your level of access to your server, and therefore can only be explained in full details, updating the file permissions is easier to explain.
 
@@ -285,7 +285,7 @@ This page contains a form that enables you to tell PrestaShop where the database
 
 Fill all the fields with the database connection information provided by your web-host:
 
-* **Database server address**. The hostname of your MySQL server. It can be tied to your domain name (i.e. [http://sql.example.com](http://sql.example.com)), tied to your web host (i.e. [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com)), or simply be an IP address (i.e. 46.105.78.185).
+* **Database server address**. The hostname of your MySQL server. It can be tied to your domain name (i.e. [http://sql.example.com](http://sql.example.com/)), tied to your web host (i.e. [http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com/)), or simply be an IP address (i.e. 46.105.78.185).
 * **Database name**. The name of the database where you want PrestaShop to store its data. This is either an existing database on your MySQL server, or the one that you created using phpMyAdmin (or any other SQL tool) in the "Creating a database for your shop" section of this guide.
 * **Database login**. The name of the MySQL user that has access to your database.
 * **Database password**. The password of the MySQL user.
@@ -322,7 +322,7 @@ An easy way to improve your installation's security is to delete some key files 
 
 * The "/install" folder (imperative).
 * The "/docs" folder (optional), unless you need to test the import tool with the sample import files that this folder contains.
-* The "[README.md](http://readme.md)" file (optional).
+* The "[README.md](http://readme.md/)" file (optional).
 
 Click on the "Manage your store" button in order to be taken to your administration area.
 

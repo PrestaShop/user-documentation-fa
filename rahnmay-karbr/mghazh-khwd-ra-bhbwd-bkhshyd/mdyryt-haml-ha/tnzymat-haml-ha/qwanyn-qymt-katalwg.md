@@ -72,4 +72,3 @@ description: Catalog Price Rules
 {% endtab %}
 {% endtabs %}
 
-****
